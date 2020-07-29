@@ -639,7 +639,7 @@ CvComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCompon
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](190, "div", 30);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](191, "a", 31);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function CvComponent_Template_a_click_191_listener() { return ctx.downloadPdf("./assets/CV2020.pdf", "CV_Paolo_Nazzaro"); });
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function CvComponent_Template_a_click_191_listener() { return ctx.downloadPdf("./assets/CV_PaoloNazzaro_2020.pdf", "CV_Paolo_Nazzaro"); });
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](192, " Download PDF\n");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
