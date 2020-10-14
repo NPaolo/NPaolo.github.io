@@ -2084,6 +2084,7 @@
 
 
       var HomepageComponent = /*#__PURE__*/function () {
+        // matslidetoggle : MatSlideToggle;
         function HomepageComponent(x, ts) {
           _classCallCheck(this, HomepageComponent);
 
@@ -2653,6 +2654,7 @@
           args: [{
             declarations: [_app_component__WEBPACK_IMPORTED_MODULE_5__["AppComponent"], _home_home_component__WEBPACK_IMPORTED_MODULE_6__["HomeComponent"], _colors_colors_component__WEBPACK_IMPORTED_MODULE_7__["ColorsComponent"], _torvergata_torvergata_component__WEBPACK_IMPORTED_MODULE_8__["TorvergataComponent"], _cv_cv_component__WEBPACK_IMPORTED_MODULE_9__["CvComponent"], _work_work_component__WEBPACK_IMPORTED_MODULE_10__["WorkComponent"], _homepage_homepage_component__WEBPACK_IMPORTED_MODULE_11__["HomepageComponent"]],
             imports: [_angular_platform_browser__WEBPACK_IMPORTED_MODULE_0__["BrowserModule"], _angular_platform_browser_animations__WEBPACK_IMPORTED_MODULE_2__["BrowserAnimationsModule"], _app_routing_module__WEBPACK_IMPORTED_MODULE_3__["AppRoutingModule"], _angular_router__WEBPACK_IMPORTED_MODULE_4__["RouterModule"].forRoot(appRoutes), _fortawesome_angular_fontawesome__WEBPACK_IMPORTED_MODULE_12__["FontAwesomeModule"], _angular_material_snack_bar__WEBPACK_IMPORTED_MODULE_13__["MatSnackBarModule"], _angular_material_slide_toggle__WEBPACK_IMPORTED_MODULE_14__["MatSlideToggleModule"]],
+            schemas: [_angular_core__WEBPACK_IMPORTED_MODULE_1__["CUSTOM_ELEMENTS_SCHEMA"]],
             providers: [],
             bootstrap: [_app_component__WEBPACK_IMPORTED_MODULE_5__["AppComponent"]]
           }]
