@@ -1324,6 +1324,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _angular_material_divider__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! @angular/material/divider */ "f0Cb");
 /* harmony import */ var _angular_material_chips__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! @angular/material/chips */ "A5z7");
 /* harmony import */ var _angular_material_grid_list__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(/*! @angular/material/grid-list */ "zkoq");
+/* harmony import */ var ngx_google_analytics__WEBPACK_IMPORTED_MODULE_21__ = __webpack_require__(/*! ngx-google-analytics */ "Wdmj");
 
 
 
@@ -1339,6 +1340,8 @@ __webpack_require__.r(__webpack_exports__);
 
 
 // MATERIAL
+
+
 
 
 
@@ -1376,6 +1379,7 @@ AppModule.ɵinj = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineInjector
             _angular_material_icon__WEBPACK_IMPORTED_MODULE_16__["MatIconModule"],
             _angular_material_chips__WEBPACK_IMPORTED_MODULE_19__["MatChipsModule"],
             _angular_material_grid_list__WEBPACK_IMPORTED_MODULE_20__["MatGridListModule"],
+            ngx_google_analytics__WEBPACK_IMPORTED_MODULE_21__["NgxGoogleAnalyticsModule"].forRoot('G-B9X2K11W9Z')
         ]] });
 (function () { (typeof ngJitMode === "undefined" || ngJitMode) && _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsetNgModuleScope"](AppModule, { declarations: [_app_component__WEBPACK_IMPORTED_MODULE_5__["AppComponent"],
         // HomeComponent,
@@ -1395,7 +1399,7 @@ AppModule.ɵinj = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineInjector
         _angular_material_divider__WEBPACK_IMPORTED_MODULE_18__["MatDividerModule"],
         _angular_material_icon__WEBPACK_IMPORTED_MODULE_16__["MatIconModule"],
         _angular_material_chips__WEBPACK_IMPORTED_MODULE_19__["MatChipsModule"],
-        _angular_material_grid_list__WEBPACK_IMPORTED_MODULE_20__["MatGridListModule"]] }); })();
+        _angular_material_grid_list__WEBPACK_IMPORTED_MODULE_20__["MatGridListModule"], ngx_google_analytics__WEBPACK_IMPORTED_MODULE_21__["NgxGoogleAnalyticsModule"]] }); })();
 /*@__PURE__*/ (function () { _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵsetClassMetadata"](AppModule, [{
         type: _angular_core__WEBPACK_IMPORTED_MODULE_1__["NgModule"],
         args: [{
@@ -1424,6 +1428,7 @@ AppModule.ɵinj = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineInjector
                     _angular_material_icon__WEBPACK_IMPORTED_MODULE_16__["MatIconModule"],
                     _angular_material_chips__WEBPACK_IMPORTED_MODULE_19__["MatChipsModule"],
                     _angular_material_grid_list__WEBPACK_IMPORTED_MODULE_20__["MatGridListModule"],
+                    ngx_google_analytics__WEBPACK_IMPORTED_MODULE_21__["NgxGoogleAnalyticsModule"].forRoot('G-B9X2K11W9Z')
                 ],
                 schemas: [
                     _angular_core__WEBPACK_IMPORTED_MODULE_1__["CUSTOM_ELEMENTS_SCHEMA"]
